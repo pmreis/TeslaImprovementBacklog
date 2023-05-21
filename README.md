@@ -37,6 +37,10 @@ Conversely, assuming the infotainment is set to English and the vehicle is trave
 
 This also happens with Google Maps, by the way!
 
+- Interpretation failing (Ligar para Elon Musk): https://youtube.com/shorts/TKKCOxPPl0A
+- Interpretation failing (Navigate to Ericeira): https://youtube.com/shorts/3dkkxvKyq8I
+- Working correcly (Navegar para Ericeira): https://www.youtube.com/shorts/4RrTzKC0dNc
+
 ## Note 5
 Phantom braking seems to be related to quickly passing from a bright area to a dark area. This is always the case with in this place: https://goo.gl/maps/UntGW1vgpS67g95L9 (Google Street View), https://goo.gl/maps/YtuBvAwzYKCu4791A (Pin / Placemark), or simple the coordinates 38.75756188349858, -9.171885145989462.
 
