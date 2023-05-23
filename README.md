@@ -42,7 +42,7 @@ This also happens with Google Maps, by the way!
 - Working correcly (Navegar para Ericeira): https://www.youtube.com/shorts/4RrTzKC0dNc
 
 ## Note 5
-Phantom braking seems to be related to quickly passing from a bright area to a dark area. This is always the case with in this place: https://goo.gl/maps/UntGW1vgpS67g95L9 (Google Street View), https://goo.gl/maps/YtuBvAwzYKCu4791A (Pin / Placemark), or simple the coordinates 38.75756188349858, -9.171885145989462.
+Phantom braking seems to be related to quickly passing from a bright area to a dark area. This is always the case with in this place: https://goo.gl/maps/UntGW1vgpS67g95L9 (Google Street View), https://goo.gl/maps/YtuBvAwzYKCu4791A (Pin / Placemark), or simply the coordinates 38.75756188349858, -9.171885145989462.
 
  Notice the reflective signs on the side of the bridge slightly facing downwards to the vehicles. Soon after, a very dark shadow cast by the bridge.
 
