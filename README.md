@@ -17,7 +17,7 @@ A repository containing a checklist of issues and features that would improve Pr
 - [ ] Make Enhanced Autopilot and Full Self-Driving available as subscriptions.
 - [ ] Support for voice commands should be equal on all supported languages [[6]](#note-6).
 - [ ] Switch off the interior lights (both dome and ambient lights) if the car is locked, no one is sitting on the inside and dog/camp mode is inactive.
-- [] Add fold/unfold mirrors to the shortcut list of the left scroll wheel.
+- [ ] Add fold/unfold mirrors to the shortcut list of the left scroll wheel.
 
 # Notes
 
