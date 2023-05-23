@@ -18,6 +18,7 @@ A repository containing a checklist of issues and features that would improve Pr
 - [ ] Support for voice commands should be equal on all supported languages [[6]](#note-6).
 - [ ] Switch off the interior lights (both dome and ambient lights) if the car is locked, no one is sitting on the inside and dog/camp mode is inactive.
 - [ ] Add fold/unfold mirrors to the shortcut list of the left scroll wheel.
+- [ ] Fix navigation ignoring certain roads [7](#note-7).
 
 # Notes
 
@@ -53,3 +54,14 @@ Phantom braking seems to be related to quickly passing from a bright area to a d
 There are missing commands in Portuguese when compared with the available commands in English. For example, unfolding mirrors (abrir espelhos) is not supported, but folding mirrors (fechar espelhos) is supported. 
 Another example: all the voice commands for showing a settings page, e.g. lights, locks, display, won't work in Portuguese.
 
+## Note 7
+Some roads on the map coverage are completly ignored by navigation. There is no clear pattern on why some roads are ignored, but I leave an example below for this road: https://goo.gl/maps/iC1AYiaTJsKaaXvu8.
+
+> Already on the ignored road and navigation suggests turning back. This is an asphalt road.
+![ignoredRoad1](note-7_1.jpg)
+
+> More detailed location for Google Maps comparison.
+ ![ignoredRoad2](note-7_2.jpg)
+
+> Road is considered by Google Maps navigation.
+ ![ignoredRoad2](note-7_3.jpg)
