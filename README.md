@@ -19,6 +19,7 @@ A repository containing a checklist of issues and features that would improve Pr
 - [ ] Switch off the interior lights (both dome and ambient lights) if the car is locked, no one is sitting on the inside and dog/camp mode is inactive.
 - [ ] Add fold/unfold mirrors to the shortcut list of the left scroll wheel.
 - [ ] Fix navigation ignoring certain roads [[7]](#note-7).
+- [ ] Allow turning off the wipers when on Autopilot [[8]](#note-8).
 
 # Notes
 
@@ -65,3 +66,6 @@ Some roads on the map coverage are completly ignored by navigation. There is no 
 
 > Road is considered by Google Maps navigation.
  ![ignoredRoad2](note-7_3.jpg)
+
+ ## Note 8
+ When the windshield is dirty (specially with bugs), activating the Autopilot also activates the wipers on full speed. This behaviour does not contribute to safety and damages the wiper blades. Previous software versions allowed turning off the wipers with the Autopilot on.
