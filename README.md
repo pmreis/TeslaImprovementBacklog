@@ -20,6 +20,8 @@ A repository containing a checklist of issues and features that would improve Pr
 - [ ] Add fold/unfold mirrors to the shortcut list of the left scroll wheel.
 - [ ] Fix navigation ignoring certain roads [[7]](#note-7).
 - [ ] Allow turning off the wipers when on Autopilot [[8]](#note-8).
+- [ ] Add option to turn off wireless phone charging.
+- [ ] Allow turning off air flow for the passenger side alone.
 
 # Notes
 
