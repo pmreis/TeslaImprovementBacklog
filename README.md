@@ -22,6 +22,7 @@ A repository containing a checklist of issues and features that would improve Pr
 - [ ] Allow turning off the wipers when on Autopilot [[8]](#note-8).
 - [ ] Add option to turn off wireless phone charging.
 - [ ] Allow turning off air flow for the passenger side alone.
+- [ ] Copy full itinerary to vehicle from phone App like Google Maps, instead of just the destination point. 
 
 # Notes
 
