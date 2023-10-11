@@ -52,7 +52,7 @@ Phantom braking seems to be related to quickly passing from a bright area to a d
 
  Notice the reflective signs on the side of the bridge slightly facing downwards to the vehicles. Soon after, a very dark shadow cast by the bridge.
 
-![horseRoads](note-5.jpg)
+![phantomBraking](note-5.jpg)
 
 ## Note 6
 There are missing commands in Portuguese when compared with the available commands in English. For example, unfolding mirrors (abrir espelhos) is not supported, but folding mirrors (fechar espelhos) is supported. 
@@ -65,10 +65,10 @@ Some roads on the map coverage are completly ignored by navigation. There is no 
 ![ignoredRoad1](note-7_1.jpg)
 
 > More detailed location for Google Maps comparison.
- ![ignoredRoad2](note-7_2.jpg)
+![ignoredRoad2](note-7_2.jpg)
 
 > Road is considered by Google Maps navigation.
- ![ignoredRoad2](note-7_3.jpg)
+![ignoredRoad3](note-7_3.jpg)
 
  ## Note 8
  When the windshield is dirty (specially with bugs), activating the Autopilot also activates the wipers on full speed. This behaviour does not contribute to safety and damages the wiper blades. Previous software versions allowed turning off the wipers with the Autopilot on. Also, this behaviour is inconsistent with auto high-beams, which can be turned off after being activated by Autopilot.
