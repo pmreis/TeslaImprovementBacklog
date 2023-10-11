@@ -61,14 +61,15 @@ Another example: all the voice commands for showing a settings page, e.g. lights
 ## Note 7
 Some roads on the map coverage are completly ignored by navigation. There is no clear pattern on why some roads are ignored, but I leave an example below for this road: https://goo.gl/maps/iC1AYiaTJsKaaXvu8.
 
-> Already on the ignored road and navigation suggests turning back. This is an asphalt road.
+
 ![ignoredRoad1](note-7_1.jpg)
+*Already on the ignored road and navigation suggests turning back. This is an asphalt road*
 
-> More detailed location for Google Maps comparison.
 ![ignoredRoad2](note-7_2.jpg)
+*More detailed location for Google Maps comparison*
 
-> Road is considered by Google Maps navigation.
 ![ignoredRoad3](note-7_3.jpg)
+*Road is considered by Google Maps navigation*
 
  ## Note 8
  When the windshield is dirty (specially with bugs), activating the Autopilot also activates the wipers on full speed. This behaviour does not contribute to safety and damages the wiper blades. Previous software versions allowed turning off the wipers with the Autopilot on. Also, this behaviour is inconsistent with auto high-beams, which can be turned off after being activated by Autopilot.
