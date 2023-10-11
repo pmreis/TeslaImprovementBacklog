@@ -1,6 +1,7 @@
 # Tesla Improvement Backlog
 
 A repository containing a checklist of issues and features that would improve Product Quality or User Experience.
+Units mentioned in this document will follow the International System of Units and dates will be presented in the **yyyy/mm/dd** format.
 
 ## Backlog
 
@@ -14,7 +15,7 @@ A repository containing a checklist of issues and features that would improve Pr
 - [ ] Multi-language recognition on voice commands [[4]](#note-4).
 - [ ] Reduce phantom braking in particular cases [[5]](#note-5).
 - [ ] Fix wipers turning on for no apparent reason. Seems to be caused by sunlight coming through tree foliage and hitting the windscreen.
-- [ ] Make Enhanced Autopilot and Full Self-Driving available as subscriptions.
+- [ ] Make Enhanced Autopilot and Full Self-Driving available as subscriptions in Europe.
 - [ ] Support for voice commands should be equal on all supported languages [[6]](#note-6).
 - [ ] Switch off the interior lights (both dome and ambient lights) if the car is locked, no one is sitting on the inside and dog/camp mode is inactive.
 - [ ] Add fold/unfold mirrors to the shortcut list of the left scroll wheel.
@@ -23,6 +24,7 @@ A repository containing a checklist of issues and features that would improve Pr
 - [ ] Add option to turn off wireless phone charging.
 - [ ] Allow turning off air flow for the passenger side alone.
 - [ ] Copy full itinerary to vehicle from phone App like Google Maps, instead of just the destination point. 
+- [ ] Dead reackoning not re-enabling after prolonged deep sleep [[9]](#note-9).
 
 # Notes
 
@@ -59,8 +61,7 @@ There are missing commands in Portuguese when compared with the available comman
 Another example: all the voice commands for showing a settings page, e.g. lights, locks, display, won't work in Portuguese.
 
 ## Note 7
-Some roads on the map coverage are completly ignored by navigation. There is no clear pattern on why some roads are ignored, but I leave an example below for this road: https://goo.gl/maps/iC1AYiaTJsKaaXvu8.
-
+Some roads on the map coverage are completly ignored by navigation. There is no clear pattern on why some roads are ignored, but I leave a couple of images below as an example for this specific road: https://goo.gl/maps/iC1AYiaTJsKaaXvu8.
 
 ![ignoredRoad1](note-7_1.jpg)
 *Already on the ignored road and navigation suggests turning back. This is an asphalt road*
@@ -73,3 +74,8 @@ Some roads on the map coverage are completly ignored by navigation. There is no 
 
  ## Note 8
  When the windshield is dirty (specially with bugs), activating the Autopilot also activates the wipers on full speed. This behaviour does not contribute to safety and damages the wiper blades. Previous software versions allowed turning off the wipers with the Autopilot on. Also, this behaviour is inconsistent with auto high-beams, which can be turned off after being activated by Autopilot.
+
+ ## Note 9
+The image below shows a [TeslaMate](https://github.com/adriankumpf/teslamate) drive log with an erroneous position capture after the car left a garage sitting below ground level (hence no GNSS signals). This issue started happening at 2023/08/09.
+
+![deadReckoning](note-9.jpg)
