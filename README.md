@@ -6,7 +6,7 @@ Units mentioned in this document will follow the International System of Units a
 ## Backlog
 
 - [ ] Restore USB playback after sleep state if USB was the selected audio source before sleeping.
-- [ ] Perform audio search on USB and not just on Spotify.
+- [ ] Perform audio search on USB besides Spotify. If Premium is not enabled and USB contains music, search should focus primarily on USB.
 - [ ] When playing from USB, touching the music card should select the current track on the respective folder of the USB device.
 - [ ] Implement gapless playback for USB audio [[1]](#note-1).
 - [ ] Make speed-sensitive volume a configurable option again, or turn it off by default.
@@ -20,11 +20,12 @@ Units mentioned in this document will follow the International System of Units a
 - [ ] Switch off the interior lights (both dome and ambient lights) if the car is locked, no one is sitting on the inside and dog/camp mode is inactive.
 - [ ] Add fold/unfold mirrors to the shortcut list of the left scroll wheel.
 - [ ] Fix navigation ignoring certain roads [[7]](#note-7).
-- [ ] Allow turning off the wipers when on Autopilot [[8]](#note-8).
+- [X] Allow turning off the wipers when on Autopilot [[8]](#note-8). **Solved on 2023.44.25**
 - [ ] Add option to turn off wireless phone charging.
-- [ ] Allow turning off air flow for the passenger side alone.
+- [ ] Allow turning off air flow for the passenger side alone, on Model 3/Y prior to Highland.
 - [ ] Copy full itinerary to vehicle from phone App like Google Maps, instead of just the destination point. 
-- [ ] Dead reackoning not re-enabling after prolonged deep sleep [[9]](#note-9).
+- [X] Dead reackoning not re-enabling after prolonged deep sleep [[9]](#note-9). **Issue can be fixed remotely by Service Center**
+- [ ] Add the estimated finish date/time for charging on the App, besides the remaining time. [[10]](#note-9)
 
 # Notes
 
@@ -79,3 +80,9 @@ Some roads on the map coverage are completly ignored by navigation. There is no 
 The image below shows a [TeslaMate](https://github.com/adriankumpf/teslamate) drive log with an erroneous position capture after the car left a garage sitting below ground level (hence no GNSS signals). This issue started happening at 2023/08/09.
 
 ![deadReckoning](note-9.jpg)
+
+ ## Note 10
+ Include on the Tesla App the estimated date/time for end-of-charge, similar to TeslaMate.
+ Suggestion: touching the label with the remaining time, should alternate between remaining time and expected end-of-charge date/time.
+
+ ![endofcharge](note-10.jpg)
