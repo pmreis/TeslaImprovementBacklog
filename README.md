@@ -27,7 +27,7 @@ Units mentioned in this document will follow the International System of Units a
 - [X] Dead reackoning not re-enabling after prolonged deep sleep [[9]](#note-9). **Issue can be fixed remotely by Service Center**
 - [ ] Add the estimated finish date/time for charging on the App, besides the remaining time. [[10]](#note-9)
 - [ ] Restore the minimum parking back-sensor distance of 30cm on Model 3. This was set to 40cm after update 2024.14.6.
-- [X] Solve Tesla App rendering issues introduced since early April release: https://www.youtube.com/shorts/RHsV7483uVQ. This seemed to be related with iOS and was solved with iOS 18 upgrade.
+- [X] Solve Tesla App rendering issues introduced since early April release: https://www.youtube.com/shorts/RHsV7483uVQ. **This seemed to be related with iOS and was solved with iOS 18 upgrade**
 
 # Notes
 
