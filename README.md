@@ -26,7 +26,7 @@ Units mentioned in this document will follow the International System of Units a
 - [ ] Copy full itinerary to vehicle from phone App like Google Maps, instead of just the destination point.
 - [X] Dead reckoning not re-enabling after prolonged deep sleep [[9]](#note-9). **Issue can be fixed remotely by Service Center**
 - [ ] Add the estimated finish date/time for charging on the App, besides the remaining time [[10]](#note-10).
-- [ ] Restore the minimum parking back-sensor distance of 30cm on Model 3. This was set to 40 cm after update 2024.14.6.
+- [ ] Restore the minimum parking distance for the back-sensor of 30cm on Model 3. This was set to 40 cm after update 2024.14.6.
 - [X] Solve Tesla App rendering issues introduced since early April release: https://www.youtube.com/shorts/RHsV7483uVQ. **This seemed to be related with iOS and was solved with iOS 18 upgrade**
 - [ ] Remove the "Bluetooth on" requirement on Android to see saved sentry videos.
 - [ ] Make calendar scroll faster on Intel processors.
