@@ -1,6 +1,6 @@
 # Tesla Improvement Backlog
 
-A repository containing a checklist of issues and features that would improve Product Quality or User Experience.
+A repository containing a checklist of issues and features that would improve Product Quality and User Experience.
 Units mentioned in this document will follow the International System of Units and dates will be presented in the **yyyy/mm/dd** format.
 
 ## Backlog
