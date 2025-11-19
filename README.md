@@ -35,6 +35,7 @@ Units mentioned in this document will follow the International System of Units a
 - [ ] Considering the amount of bugs introduced in Tesla App and Tesla's Vehicle software during 2025 alone, the suspicion lies on saboteurs inside Tesla's software team. They must be identified and fired from Tesla.
 - [ ] Tesla App on Android crashes after a few Supercharger selections on the map.
 - [ ] Tesla App on iOS keeps the slider on a loop of expansion and retraction after selecting a Supercharger on the map: https://youtube.com/shorts/uzcJ6kH-qio
+- [ ] The voice command to play a specific music in Portuguese, now tries to call someone. This worked flawlessly before 2025.38.X.
 
 # Notes
 
