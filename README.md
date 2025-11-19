@@ -30,7 +30,11 @@ Units mentioned in this document will follow the International System of Units a
 - [X] Solve Tesla App rendering issues introduced since early April release: https://www.youtube.com/shorts/RHsV7483uVQ. **This seemed to be related with iOS and was solved with iOS 18 upgrade**
 - [ ] Remove the "Bluetooth on" requirement on Android to see saved sentry videos.
 - [ ] Make calendar scroll faster on Intel processors.
-- [ ] Keep option on climate controls should keep the current settings, not change it to auto.
+- [ ] The "keep" option on climate controls should keep the current settings, not change it to auto.
+- [ ] Vision based sentry mode only activates with human figgures nearby (including paintings). This excludes small crashes from other veiches into a Tesla. Sentry should activate also when other cars drive too close.
+- [ ] Considering the amount of bugs introduced in Tesla App and Tesla's Vehicle software during 2025 alone, the suspicion lies on saboteurs inside Tesla's software team. They must be identified and fired from Tesla.
+- [ ] Tesla App on Android crashes after a few Supercharger selections on the map.
+- [ ] Tesla App on iOS keeps the slider on a loop of expantion and retraction, after selecting a Supercharger on the map.
 
 # Notes
 
