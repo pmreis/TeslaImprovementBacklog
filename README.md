@@ -21,9 +21,9 @@ Units mentioned in this document will follow the International System of Units a
 - [X] Add fold/unfold mirrors to the shortcut list of the left scroll wheel. **Added on 2024.38.25**
 - [ ] Fix navigation ignoring certain roads [[7]](#note-7).
 - [X] Allow turning off the wipers when on Autopilot [[8]](#note-8). **Solved on 2023.44.25**
-- [ ] Add option to turn off wireless phone charging.
+- [ ] Add the option to turn off wireless phone charging.
 - [ ] Allow turning off air flow for the passenger side alone, on Model 3/Y prior to Highland.
-- [ ] Copy full itinerary to vehicle from phone App like Google Maps, instead of just the destination point.
+- [ ] Copy the full itinerary to the vehicle from phone App like Google Maps, instead of just the destination point.
 - [X] Dead reckoning not re-enabling after prolonged deep sleep [[9]](#note-9). **Issue can be fixed remotely by Service Center**
 - [ ] Add the estimated finish date/time for charging on the App, besides the remaining time [[10]](#note-10).
 - [ ] Restore the minimum parking distance of 30 cm for the Model 3 with back ultrasonic sensors (USS). This was set to 40 cm after update 2024.14.6.
@@ -31,15 +31,15 @@ Units mentioned in this document will follow the International System of Units a
 - [ ] Remove the "Bluetooth on" requirement on Android to see saved sentry videos.
 - [ ] Make calendar scroll faster on Intel processors.
 - [ ] The "keep" option on climate controls should keep the current settings, not change it to auto.
-- [ ] Vision based sentry mode only activates with human figgures nearby (including paintings). This excludes small crashes from other veiches into a Tesla. Sentry should activate also when other cars drive too close.
+- [ ] Vision based sentry mode only activates with human figures nearby (including paintings). This excludes small crashes from other vehicles with a Tesla. Sentry should activate also when other cars drive too close.
 - [ ] Considering the amount of bugs introduced in Tesla App and Tesla's Vehicle software during 2025 alone, the suspicion lies on saboteurs inside Tesla's software team. They must be identified and fired from Tesla.
 - [ ] Tesla App on Android crashes after a few Supercharger selections on the map.
-- [ ] Tesla App on iOS keeps the slider on a loop of expantion and retraction, after selecting a Supercharger on the map.
+- [ ] Tesla App on iOS keeps the slider on a loop of expansion and retraction, after selecting a Supercharger on the map.
 
 # Notes
 
 ## Note 1
-Not having gapless playback is like being dragged out of the zone everytime playback moves to the next track on the album.
+Not having gapless playback is like being dragged out of the zone every time playback moves to the next track on the album.
 
 ## Note 2
 Difference in software feature support. If these are caused by hardware changes then it should be made clear for owners through the manual or some other official documentation.
@@ -71,7 +71,7 @@ There are missing commands in Portuguese when compared with the available comman
 Another example: all the voice commands for showing a settings page, e.g. lights, locks, display, won't work in Portuguese.
 
 ## Note 7
-Some roads on the map coverage are completly ignored by navigation. There is no clear pattern on why some roads are ignored, but I leave a couple of images below as an example for this specific road: https://goo.gl/maps/iC1AYiaTJsKaaXvu8.
+Some roads on the map coverage are completely ignored by navigation. There is no clear pattern on why some roads are ignored, but I leave a couple of images below as an example for this specific road: https://goo.gl/maps/iC1AYiaTJsKaaXvu8.
 
 ![ignoredRoad1](note-7_1.jpg)
 *Already on the ignored road and navigation suggests turning back. This is an asphalt road*
