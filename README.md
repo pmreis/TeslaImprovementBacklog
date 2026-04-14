@@ -21,7 +21,7 @@ Units mentioned in this document will follow the International System of Units a
 - [X] Add fold/unfold mirrors to the shortcut list of the left scroll wheel. **Added on 2024.38.25**
 - [ ] Fix navigation ignoring certain roads [[7]](#note-7).
 - [X] Allow turning off the wipers when on Autopilot [[8]](#note-8). **Solved on 2023.44.25**
-- [ ] Add the option to turn off wireless phone charging.
+- [X] Add the option to turn off wireless phone charging. **Added on 2025.44.25**
 - [ ] Allow turning off air flow for the passenger side alone, on Model 3/Y prior to Highland.
 - [ ] Copy the full itinerary to the vehicle from phone App like Google Maps, instead of just the destination point.
 - [X] Dead reckoning not re-enabling after prolonged deep sleep [[9]](#note-9). **Issue can be fixed remotely by Service Center**
