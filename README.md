@@ -28,7 +28,7 @@ Units mentioned in this document will follow the International System of Units a
 - [ ] Add the estimated finish date/time for charging on the App, besides the remaining time [[10]](#note-10).
 - [ ] Restore the minimum parking distance of 30 cm for the Model 3 with back ultrasonic sensors (USS). This was set to 40 cm after update 2024.14.6.
 - [X] Solve Tesla App rendering issues introduced since early April release: https://www.youtube.com/shorts/RHsV7483uVQ. **This seemed to be related with iOS and was solved with iOS 18 upgrade**
-- [ ] Remove the "Bluetooth on" requirement on Android to see saved sentry videos.
+- [X] Remove the "Bluetooth on" requirement on Android to see saved sentry videos. **Solved on Tesla App for Android v4.55.5-4193**
 - [ ] Make calendar scroll faster on Intel processors.
 - [ ] The "keep" option on climate controls should keep the current settings, not change it to auto.
 - [ ] Vision based sentry mode only activates with human figures nearby (including paintings). This excludes small crashes from other vehicles with a Tesla. Sentry should activate also when other cars drive too close.
