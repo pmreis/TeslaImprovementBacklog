@@ -35,6 +35,11 @@ Units mentioned in this document will follow the International System of Units a
 - [X] Tesla App on Android crashes after a few Supercharger selections on the map. **Solved on Tesla App for Android v4.55.5-4193**
 - [X] Tesla App on iOS keeps the slider on a loop of expansion and retraction after selecting a Supercharger on the map: https://youtube.com/shorts/uzcJ6kH-qio **Solved on Tesla App for iOS v4.55.5-4193**
 - [ ] The voice command to play a specific music when issued in Portuguese, now tries to call someone. This worked flawlessly before 2025.38.X.
+- [ ] Restore the option to disable the Cruise Control activation / deactivation sound.
+- [ ] Bring Grok into MCU2 (Intel Atom).
+- [ ] Use Grok as the basis for Voice Commands, instead of the multiple broken Voice Commands with the software updates from 2025. Alternatively, if Grok is non-financially sustainable for ~9M users, restore the proper working condition of Voice Commands.
+- [ ] Stop discriminating between owners who get Grok or not.
+
 
 # Notes
 
