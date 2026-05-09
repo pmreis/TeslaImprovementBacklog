@@ -33,7 +33,7 @@ Units mentioned in this document will follow the International System of Units a
 - [ ] The "keep" option on climate controls should keep the current settings, not change it to auto.
 - [ ] Vision based sentry mode only activates with human figures nearby (including paintings). This excludes small crashes from other vehicles with a Tesla. Sentry should activate also when other cars drive too close.
 - [X] Tesla App on Android crashes after a few Supercharger selections on the map. **Solved on Tesla App for Android v4.55.5-4193**
-- [X] Tesla App on iOS keeps the slider on a loop of expansion and retraction after selecting a Supercharger on the map: https://youtube.com/shorts/uzcJ6kH-qio **Solved on Tesla App for iOS v4.55.5-4193**
+- [ ] Tesla App on iOS keeps the slider on a loop of expansion and retraction after selecting a Supercharger on the map: https://youtube.com/shorts/uzcJ6kH-qio
 - [ ] The voice command to play a specific music when issued in Portuguese, now tries to call someone. This worked flawlessly before 2025.38.X.
 - [ ] Restore the option to disable the Cruise Control activation / deactivation sound.
 - [ ] Bring Grok into MCU2 (Intel Atom).
