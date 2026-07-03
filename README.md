@@ -38,6 +38,8 @@ Units mentioned in this document will follow the International System of Units a
 - [ ] Restore the option to disable the Cruise Control activation / deactivation sound.
 - [ ] Bring Grok into MCU2 (Intel Atom).
 - [ ] Use Grok as the basis for Voice Commands, instead of the multiple broken Voice Commands with the software updates from 2025. Alternatively, if Grok is non-financially sustainable for ~9M users, restore the proper working condition of Voice Commands.
+- [ ] Low frame rate on the Tesla App's Live Sentry feature. This creates a false perception of vandalism for owners, because any passerby will appear to have paused by the vehicle. Conversly, the App Dashcam player has a proper frame rate when tested, so the issue is not connection quality.
+
 
 # Notes
 
